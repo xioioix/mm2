@@ -1,0 +1,3 @@
+[submodule "MagicMirror2"]
+	path = MagicMirror2
+	url = https://github.com/xioioix/mm2
